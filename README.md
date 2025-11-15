@@ -9,6 +9,7 @@ Este repositório contém o desenvolvimento front-end de uma plataforma informat
 O objetivo é aproximar voluntários, doadores e comunidade das ações realizadas pela organização.
 
 📌 Projetos Sociais
+
 📘 Educação para Todos
 
 Oficinas de reforço escolar e leitura para crianças em situação de vulnerabilidade, promovendo inclusão e desenvolvimento educacional.
