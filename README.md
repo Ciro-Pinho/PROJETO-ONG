@@ -9,6 +9,8 @@ Aplicação web desenvolvida para apresentar os projetos sociais da ONG Viva Esp
 Este repositório contém o desenvolvimento front-end de uma plataforma informativa da ONG, construída com foco em responsividade, acessibilidade e interatividade.
 O objetivo é aproximar voluntários, doadores e comunidade das ações realizadas pela organização.
 
+
+
 📌 Projetos Sociais:
 
 📘 Educação para Todos
